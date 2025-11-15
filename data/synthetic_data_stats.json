@@ -1,0 +1,19 @@
+{
+  "generation_date": "2025-11-15 16:47:00",
+  "num_patients": 100,
+  "num_employments": 221,
+  "num_positions": 326,
+  "num_exposures": 629,
+  "disease_distribution": {
+    "la": 34,
+    "ln": 36,
+    "mm": 30
+  },
+  "sex_distribution": {
+    "M": 52,
+    "F": 48
+  },
+  "avg_employments_per_patient": 2.21,
+  "avg_positions_per_patient": 3.26,
+  "avg_exposures_per_patient": 6.29
+}

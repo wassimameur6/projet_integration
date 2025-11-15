@@ -1,0 +1,14 @@
+# GISCOP 84 Synthetic Data Generator Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+Faker>=18.0.0
+
+# Optional: For advanced synthetic data generation
+# sdv>=1.0.0
+# gretel-client>=0.15.0
+
+# For data validation
+# great-expectations>=0.15.0
